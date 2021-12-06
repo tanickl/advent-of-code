@@ -15,14 +15,7 @@ public class CountIncreases {
 			System.out.println(count);
 		}
 	}
-//	for (int i : sonar) {
-//		System.out.println(i);
-//
-//		if( i < sonar) {
-//			count++;
-//			System.out.println(count);
-//		}
-//	}
+
 	
 	
 	}
